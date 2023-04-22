@@ -1,24 +1,21 @@
 ## [1.0.4](https://github.com/cezarsmpio/gatsby-knowledge-base-contentful-starter/compare/v1.0.3...v1.0.4) (2020-05-28)
 
-
 ### Bug Fixes
 
-* remove .github workflows when building on netlify ([6f813d0](https://github.com/cezarsmpio/gatsby-knowledge-base-contentful-starter/commit/6f813d0d81a3c5782696fc60402142717373343a))
+- remove .github workflows when building on netlify ([6f813d0](https://github.com/cezarsmpio/gatsby-knowledge-base-contentful-starter/commit/6f813d0d81a3c5782696fc60402142717373343a))
 
 ## [1.0.3](https://github.com/cezarsmpio/gatsby-knowledge-base-contentful-starter/compare/v1.0.2...v1.0.3) (2020-05-28)
 
-
 ### Bug Fixes
 
-* resolve cookie consent banner flickering ([34c462e](https://github.com/cezarsmpio/gatsby-knowledge-base-contentful-starter/commit/34c462e705cfee1ba7bcb4546a83742c08732367))
+- resolve cookie consent banner flickering ([34c462e](https://github.com/cezarsmpio/gatsby-knowledge-base-contentful-starter/commit/34c462e705cfee1ba7bcb4546a83742c08732367))
 
 ## [1.0.2](https://github.com/cezarsmpio/help-center-gatsby-template/compare/v1.0.1...v1.0.2) (2020-05-25)
 
-
 ### Bug Fixes
 
-* do not run ci if commit contains skip ci keyword ([333e588](https://github.com/cezarsmpio/help-center-gatsby-template/commit/333e588cf824e737caf72477432890ab73522f55))
-* improve skip ci message ([1ca6072](https://github.com/cezarsmpio/help-center-gatsby-template/commit/1ca60729647adb5cf1ab8677f30c40545141d0d1))
+- do not run ci if commit contains skip ci keyword ([333e588](https://github.com/cezarsmpio/help-center-gatsby-template/commit/333e588cf824e737caf72477432890ab73522f55))
+- improve skip ci message ([1ca6072](https://github.com/cezarsmpio/help-center-gatsby-template/commit/1ca60729647adb5cf1ab8677f30c40545141d0d1))
 
 ## [1.0.1](https://github.com/cezarsmpio/help-center-gatsby-template/compare/v1.0.0...v1.0.1) (2020-05-25)
 
