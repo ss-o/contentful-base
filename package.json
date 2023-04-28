@@ -60,5 +60,5 @@
       "got@<11.8.5": ">=11.8.5"
     }
   },
-  "packageManager": "pnpm@8.2.1"
+  "packageManager": "pnpm@8.2.0"
 }
